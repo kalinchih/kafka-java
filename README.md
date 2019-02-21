@@ -1,4 +1,4 @@
-kafka_java
+kafka-java
 ===
 
 
